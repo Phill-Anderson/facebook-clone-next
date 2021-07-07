@@ -1,0 +1,30 @@
+{
+  "name": "facebook-clone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@heroicons/react": "^1.0.1",
+    "axios": "^0.21.1",
+    "dotenv": "^8.6.0",
+    "firebase": "^8.2.6",
+    "next": "11.0.1",
+    "next-auth": "^3.27.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-firebase-hooks": "^3.0.4",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "eslint": "7.30.0",
+    "eslint-config-next": "11.0.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
+}
